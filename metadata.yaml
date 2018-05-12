@@ -1,4 +1,8 @@
 _repo: The-Wild-Garden-Or-Our-Groves-and-Gardens-Made-Beautiful-by-the-Naturalisation-of-Hardy-Exoti__47349
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47349-h/images/cover.jpg
 creator:
   author:
     agent_name: Robinson, W. (William)
@@ -12,6 +16,8 @@ description: This title, first published in 1870, issued a forceful challenge to
   prevailing garden style of the day. The book advocates a naturalistic style in which
   hardy plants, both native and exotic, are arranged in groupings that mimic wild
   landscapes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47349#The-Wild-Garden-Or-Our-Groves-and-Gardens-Made-Beautiful-by-the-Naturalisation-of-Hardy-Exoti_
 gutenberg_issued: '2014-11-14'
 gutenberg_type: Text
 identifiers:
