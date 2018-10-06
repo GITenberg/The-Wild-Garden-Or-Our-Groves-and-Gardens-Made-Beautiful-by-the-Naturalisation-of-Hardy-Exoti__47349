@@ -26,6 +26,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: "The Wild Garden\r\nOr Our Groves and Gardens Made Beautiful by the Naturalisation\
   \ of Hardy Exotic Plants; Being One Way Onwards from the Dark Ages"
 url: http://www.gutenberg.org/ebooks/47349
